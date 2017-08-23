@@ -22,7 +22,7 @@
 ## Javascript
 ### Standards
 * [Observer](http://www.html5rocks.com/en/tutorials/es7/observe/)
-* [Isomorphic Javascript](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/)
+* [Isomorphic Javascript](http://isomorphic.net/)
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 
 ### React
