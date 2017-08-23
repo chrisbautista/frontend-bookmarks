@@ -31,6 +31,10 @@
 ### AngularJS
 * [Better Way to Learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs/)
 
+## HTML
+
+* [Code Guide](http://codeguide.co/)
+
 ## CSS
 
 ### Guides
